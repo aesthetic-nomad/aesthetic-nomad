@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm Oleksandr Chesnyi 🎒🎶🏛️</h1>
 
 <p align="center">
-  🌍 Traveler 
-  🎧 Music Aficionado 
-  🏗️ Architecture Lover  
-  📸 Visual Storyteller  
+  🌍 Traveler<br>
+  🎧 Music Aficionado<br>
+  🏗️ Architecture Lover<br>
+  📸 Visual Storyteller<br>
   📫 Reach me: oleksandrchesnyi95@gmail.com or @OlekandrChesnyi on TG
 </p>
 
